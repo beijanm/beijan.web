@@ -4,12 +4,25 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Beijan's Page!
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## My Freeform
+<img src="image.png" alt="My freeform" hight="400" width="300">
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+## About Me
+My name is Beijan Moniza. I am a 16 year old at Del Norte High School. I have a 13 year old sister, a mom and a dad in my family. I like playing the piano and hanging out with friends. My pair I am working with is Rayhan he is 15 years old.
+
+
+<style>
+    h2#beijans-page{
+        color: green;
+        font-size: 30px;
+        text-align: center;
+    }
+    p{
+        color: white;
+    }
+    body{
+        background-color: black;
+    }
+</style>
