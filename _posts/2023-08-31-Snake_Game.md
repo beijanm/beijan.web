@@ -1,9 +1,11 @@
 ---
-toc: true comments: false layout: post
-title: Classic Snake Game
-description: Play the classic snake game!
+toc: true
+comments: false
+layout: post
+title: Snake Game
+description: Classic Snake Game
 type: hacks
-courses: { compsci: {week: 0} }
+courses: { compsci: {week: 2} }
 ---
 
 
