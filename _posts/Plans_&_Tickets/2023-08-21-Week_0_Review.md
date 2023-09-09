@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
 title: Week 0 Review Ticket
 description: Review ticket used to accelerate discussion.
