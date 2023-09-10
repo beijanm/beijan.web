@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Week 0 Review
 type: tangibles
-courses: { compsci: {week: 3} }
+courses: { compsci: {week: 0} }
 ---
 
 <div align="center" style="font-size: 3em;">Week 0 Review</div>
