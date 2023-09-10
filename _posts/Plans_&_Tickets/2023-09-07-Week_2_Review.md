@@ -2,10 +2,11 @@
 toc: true
 comments: false
 layout: post
-title: Week 2 Review Ticket
-description: Review ticket used to accelerate discussion.
+title: Week 2 Review
 type: tangibles
-courses: { compsci: {week: 2} }
+courses: { compsci: {week: 3} }
 ---
 
-### Week 2 Review
+<div align="center" style="font-size: 3em;">Week 2 Review</div>
+
+
