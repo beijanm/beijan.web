@@ -45,3 +45,4 @@ else:
     
 percentage = (correct / questions) * 100
 print(f"You got: {percentage:.2f}%")
+```
