@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title:  Not Python Quiz
+title: Python Quiz
 type: hacks
 courses: { compsci: {week: 2} }
 ---
