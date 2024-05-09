@@ -1,5 +1,10 @@
 ---
-permalink: delete
+toc: false
+comments: false 
+layout: post
+title: Delete Function
+type: hacks
+courses: { compsci: {week: 20} }
 ---
 
 <!-- 
@@ -7,7 +12,6 @@ A simple HTML login form with a Login action when button is pressed.
 
 The form triggers the login_user function defined in the JavaScript below when the Login button is pressed.
 -->
-<p class="title"> Delete a User </p>
 
 <form action="javascript:delete_user()">
     <h2><label>
@@ -16,6 +20,7 @@ The form triggers the login_user function defined in the JavaScript below when t
     </label></h2>
     <p>
         <button class="delete-button">Delete</button>
+        <button onClick = "window.location.href ='http://127.0.0.1:4200/beijan.web//2024/01/31/Login.html'" class="button-spacing" >Login</button>
     </p>
 
 </form>
@@ -26,7 +31,7 @@ The form triggers the login_user function defined in the JavaScript below when t
 
     const url = uri + '/api/users/';
 
-    function delete_user(){
+    function delete(){
     const body = {
       uid: document.getElementById("duid").value,
     };
@@ -59,5 +64,5 @@ The form triggers the login_user function defined in the JavaScript below when t
         console.log(err)
       });
   }
-  window.delete_user = delete_user;
+  window.delete_user = delete;
 </script>
